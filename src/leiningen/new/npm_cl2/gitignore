@@ -1,0 +1,14 @@
+/target
+/node_modules
+/lib
+/classes
+/checkouts
+pom.xml
+*.js
+*.html
+*.jar
+*.class
+.lein-deps-sum
+.lein-failures
+.lein-plugins
+.lein-env
