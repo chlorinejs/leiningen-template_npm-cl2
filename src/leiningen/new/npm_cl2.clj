@@ -18,4 +18,5 @@
              ;;["test/test_runner.hic" (render "test_runner.hic" data)]
              ["README.md" (render "README.md" data)]
              ["project.clj" (render "project.clj" data)]
-             [".gitignore" (render "gitignore" data)])))
+             [".gitignore" (render "gitignore" data)]
+             [".travis.yml" (render "travis.yml" data)])))

@@ -2,7 +2,7 @@
 
 A Leiningen template for ChlorineJs projects that target [NPM][1]
 
-[1]: http://npm.org
+[1]: http://npmjs.org
 
 ## Usage
 
